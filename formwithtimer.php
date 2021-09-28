@@ -1,6 +1,4 @@
-
-
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
@@ -41,7 +39,7 @@
       
           <div class="col-xs-12 col-sm-12 col-md-12">
             <div class="form-group">
-              <textarea name="personalDetails" id="personalDetails" class="form-control input-sm" placeholder="Write About yourself"></textarea>
+              <textarea name="personalDetails" id="personalDetails" class="form-control input-sm" placeholder="Write about yourself"></textarea>
             </div>
           </div>
           <div class="col-xs-12 col-sm-12 col-md-12">
