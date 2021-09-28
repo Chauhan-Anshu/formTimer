@@ -1,0 +1,8 @@
+Run this code with the help of these steps
+1. Open the link 
+2. Download zip file of the code
+3. Extract downloaded file in xampp/htdocs folder
+4. Folder name is formTimer-main or youcan put any name
+5. open xampp and start apache
+6. write url localhost/formTimer-main/formwithtimer.php
+7. Now you can test
