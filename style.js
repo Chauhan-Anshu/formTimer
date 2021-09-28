@@ -1,4 +1,4 @@
-var c=30;
+var c=180;
         var t;
         timedCount();
   function timedCount()
